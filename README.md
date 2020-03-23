@@ -1,0 +1,2 @@
+# PageAuth
+Page with authorization
